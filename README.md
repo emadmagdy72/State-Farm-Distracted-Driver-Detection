@@ -28,5 +28,3 @@ The plot above illustrates the training and validation accuracy over 25 epochs. 
 - **TensorFlow:** Deep learning framework used for building and training neural network models.
 - **Keras:** High-level neural networks API for rapid prototyping and experimentation with deep learning models.
 - **OpenCV:** Library for computer vision tasks, including image processing and manipulation.
-
-Feel free to explore the project repository for more details and contributions!
